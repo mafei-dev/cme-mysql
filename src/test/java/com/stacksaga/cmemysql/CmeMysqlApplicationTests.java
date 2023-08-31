@@ -1,4 +1,4 @@
-package com.zoftstack.cmemysql;
+package com.stacksaga.cmemysql;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

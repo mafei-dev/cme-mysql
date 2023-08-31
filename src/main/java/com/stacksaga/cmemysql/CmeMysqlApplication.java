@@ -1,4 +1,4 @@
-package com.zoftstack.cmemysql;
+package com.stacksaga.cmemysql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
